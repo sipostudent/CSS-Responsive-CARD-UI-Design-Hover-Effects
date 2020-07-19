@@ -11,7 +11,7 @@
 
 ## Color Generator
 
-transition, filter, blur
+transition, filter, transform, opacity
 
 ## Project Specifications
 
