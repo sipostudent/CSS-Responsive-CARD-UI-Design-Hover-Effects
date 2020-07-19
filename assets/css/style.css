@@ -1,3 +1,12 @@
+/*
+  Project Title: CSS Responsive CARD UI Design & Hover Effects
+  Author: Sipo Charles 
+*/
+
+
+/*  General Styling
+/*-----------------------------------------------------------------------------------*/
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 * {
 	margin: 0;
@@ -6,6 +15,13 @@
 	font-family: 'Poppins', sans-serif;
 }
 
+
+/*-----------------------------------------------------------------------------------*/
+
+
+/*  Body
+  /*-----------------------------------------------------------------------------------*/
+
 body {
 	display: flex;
 	justify-content: center;
@@ -13,6 +29,13 @@ body {
 	background: linear-gradient(45deg, #ffaf00, #bb02ff);
 	background-attachment: fixed;
 }
+
+
+/*-----------------------------------------------------------------------------------*/
+
+
+/*  Main Content
+  /*-----------------------------------------------------------------------------------*/
 
 .container {
 	position: relative;
